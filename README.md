@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @aschultze4
-- 👀 I’m interested in product management, user experience (mostly research), and software engineering
-- 🌱 I’m currently learning more about Swift, Java, and Python
-- 💞️ I’m looking to collaborate on just about anything
+- 👋 Hi, I’m @aschultze4 - user experience researcher
+- 👀 I’m interested in product management, human design experience, and software engineering
 - 📫 LinkedIn: https://www.linkedin.com/in/annabelle-s1/
